@@ -23,3 +23,10 @@ CMD [ "python", "./hello.py" ]
 
 - List all containers  
 ```docker ps -a```
+
+- Stop a running container  
+```docker container stop {container-id}```
+
+
+
+
