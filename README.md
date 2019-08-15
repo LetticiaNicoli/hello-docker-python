@@ -12,7 +12,7 @@ CMD [ "python", "./hello.py" ]
 - Build image  
 ```docker build -t {tagImage} . ```
 
-- Run image 
+- Run image  
 ```docker run {imageName}```
 
 - List installed images  
