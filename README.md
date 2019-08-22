@@ -1,5 +1,5 @@
 # hello-docker-python
-First steps docker with python
+First steps python with docker
 
 - Dockerfile
 ```
